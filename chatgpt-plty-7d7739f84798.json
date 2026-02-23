@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chatgpt-plty",
+  "private_key_id": "7d7739f847986f7d5f8a8f9243739d5c241a72f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1nWGFa3eEF5to\n34AGpfnAxGq2zHAUuMXKxBliY05uC0q8X7mXeHG3jDtG/IU8cOxKpTkDP3xvppCC\nZPzezg5F381yLQZRhQlC5PXcrb+OLEiApvSBmnOkdRnBOZ0yan9UDGCLSi2QjLJ4\na14qaiaUJNy8edJhVZ0fCgoqUJYAVI3lvy280HeI+IvtoGiEJvQDiJscAi4qlngf\ne1ZbBhiCPGiOuaDKbDGbDA5yyvm+1PhAZEgm87nF9UcWky3/GROHN6tHlBfSTPiP\nNMqe61q8s3PrzUjeIsfslVS2iQQsJTVgoSuAGzt3S8m9eMni2u+1zFdyuSj7dRGK\ngYFWqw2vAgMBAAECggEAAat5Vho0N5whsG9CKvxqBEglxdVcXg15QsBOFsb+gD7Z\n//W5ONFWx+zh+080VXhdQjaSwDBCz2aGFp5uWbPQ1wvUCOmK/8M2m6+L1fU5znxn\nR7fODpMiNBAPKnY1lQfJLIQ5SHxwvuAO9gVYkMyJH2c95UFVno2vIPo7BTrHc5+k\nwJ24EFaR9j30w9dc2UCI+Y0Bv/ZzaSMCtXc84fZAYl0sxIi2Rq+kBjtO1OV+Rs2A\nfgRMC8Do8+tDVm7yz4+a+pn9ICOolMNDKdKQjkVy5LRxoZarowbKIlhnQGgxe5MR\n1LeR6R/id6dWSXBXFZDokRV+3H85heMOUYunnNnyXQKBgQDqmAdQjIis5P7VAzbW\nR/AMGLNqU4djjGPiecRPnGUJqXI3BaAxF24AGFTG59D5FX36xvEPoh7U8l1BBp/1\nkm7tL9VsKfkX77pZsHZkaegbO1EEMrpSAODveZ5LE4aZKIqJwyf5XYSwUtnLTLNw\ndVfOEad4fvo+uZx1uZwnh6gwVQKBgQDGL8rrgpLORl+eY4oP9LvCT1wi9cvvUOiS\nExDDIxdqYZDwTaELPMAP1PBaMR/h3JJUXL+84WHtTAvJA1LkUIEih2fM8lzSP0ji\nTNMOYB5pM+suGSj9MiGAuzAGgK09eEJ7yGIAX5kx9uKpLvqEOLwh21kUbf64DJt4\ndCmkT3l58wKBgQCvOvoTv7WDt9Vl1W3Lp5Z14ql5nYT+5eniTGRHtyF9kxVeZhRf\nNwoShholLRlaRSSCAsIjlEyFcbgYj1NCgqva/aTkk4Gd0JKY1gfJP5aBaNA+W4nz\nIPbjyitkFuSuWKsK9jxQtvsbHffTNKrAMNZydZtrlSVlXw2wngE3QcxutQKBgEgo\nHHR0vOiXXLb5PMoka7wKUtxzq4V9ar/Mazzw6NSVo0Sqrui9fJwHBl+AJUCBo1FN\n1414bcQM/Pl52VNBMFMXA6bt0vfFjM6/89P3EPtyqLzG8lKFTwdkn86uSOTphSM2\nSOAj7k3vuoSokxNS6MRW7W7vwV7XUD+h44tsWCkbAoGBAN7QdiwW67MSuDGocUVo\n66ge4oSCDYGLRbgMZEWAtqTsTqe22K/J+OLcr4KWfNcSGk5YB/0Us6TtuAC6cpW4\nVzPF9z0HIWweaNAGIs0c2yHXvYmsGnlIz6I1nkbIT/Xh46kRFKlGO4UyeKZG1EAi\nyGoVqKTcxroMr+XvNBqn59SJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "uber-termez@chatgpt-plty.iam.gserviceaccount.com",
+  "client_id": "108040540544330371589",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-termez%40chatgpt-plty.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
