@@ -14,7 +14,7 @@ import os
 # SOZLAMALAR
 # =============================================
 TOKEN = "8101468996:AAEBJ_Do-VoXghO6GDRvlupNs9GtP3gKCp0"  # Usta bot token
-ADMIN_ID = 6551375195  # Sizning Telegram ID ingiz
+ADMIN_ID = 6551375195  # Sizning Telegram ID ingiz (o'zgartiring!)
 
 bot = Bot(token=TOKEN)
 storage = MemoryStorage()
