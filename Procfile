@@ -1,1 +1,1 @@
-worker: python usta_bot.py
+worker: python klient_bot.py
